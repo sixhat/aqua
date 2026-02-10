@@ -674,6 +674,7 @@ Nicla Vision is ready! Video: https://youtube.com/shorts/aYXpTuRiET0?feature=sha
 - [ ] Outside sensors structure;
 - [ ] Prepare second ESTM meeting: send plan
 - [ ] include calcs for the 4S4P batery in this journal;
+- [ ] Nicla Vision batery capacity
 
 # March
 - [ ] revisit minimum tools and tool box
