@@ -21,11 +21,11 @@
 4. CAN the Nicla Vision charge the battery while on USB?
 
 Location of Nicla Board libraries
-~/Library/Arduino15/packages/arduino/hardware/mbed_nicla
+~/Library/Arduino15/packages/arduino/hardware/mbed\_nicla
 
 ## LOG Testes
 
-2026-03-09
+2026-03-09  
 ¯¯¯¯¯¯¯¯¯¯
 
 Point 4. - Dead Battery today when starting working with Nicla. Measured Voltage
